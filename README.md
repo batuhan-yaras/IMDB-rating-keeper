@@ -4,7 +4,9 @@ All you need is write the Imdb rates and it will show you the movies which has h
 
 We used PyQt5 Widgets and BeautifulSoup in this code.<br>
 
-## Interface and Example
-<img src="https://user-images.githubusercontent.com/118076077/209668487-ad6cf340-c7da-4abe-95e1-bbd7014cd18d.png" height= 600px>.....<img src="https://user-images.githubusercontent.com/118076077/209668796-e3337234-4aea-4546-baa2-b967602775bd.png" height = 598px>
+### Interface:
+<img src="https://user-images.githubusercontent.com/118076077/209668487-ad6cf340-c7da-4abe-95e1-bbd7014cd18d.png" height= 450px><br>
+### Example:
+<img src="https://user-images.githubusercontent.com/118076077/209668796-e3337234-4aea-4546-baa2-b967602775bd.png" width = 418px>
 
 
